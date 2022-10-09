@@ -1,0 +1,24 @@
+{
+  "name": "nodejsf8",
+  "version": "1.0.0",
+  "description": "Bai tap ve NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haithanh1001/nodejs_blog.git"
+  },
+  "author": "Hai Thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haithanh1001/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/haithanh1001/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
